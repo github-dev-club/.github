@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github_dev_club.png" alt="GitHub Dev Club" width="800" />
+  <img src="../images/github_dev_club.png" alt="GitHub Dev Club" width="800" />
 </p>
 
 <h1 align="center">GitHub Dev Club</h1>
@@ -43,8 +43,8 @@ Stay tuned for upcoming events in your city!
 
 ## 🤝 Get Involved
 
-- ⭐ **Star this repo** to stay in the loop
-- 🗣️ **Suggest a talk or demo** by opening an [Issue](../../issues)
+- ⭐ **[Star this repo](https://github.com/github-dev-club/github-dev-club)** to stay in the loop 
+- 🗣️ **Suggest a talk or demo** by opening an [Issue](https://github.com/github-dev-club/github-dev-club/issues)
 - 📣 **Spread the word** — share GDC with your dev friends
 
 ## 📜 Code of Conduct
