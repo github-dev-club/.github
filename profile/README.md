@@ -54,7 +54,7 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 ---
 
 <p align="center">
-  <img src="images/GitHub-Symbol.png" alt="GitHub" width="40" />
+  <img src="../images/GitHub-Symbol.png" alt="GitHub" width="40" />
   <br/>
   <sub>Built with 💜 by the GitHub Dev Club community</sub>
 </p>
