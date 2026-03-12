@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5f98edbe-fba5-48b1-8ec1-012360e23b0" alt="GitHub Dev Club" width="800" />
 </p>
+<img width="1920" height="1080" alt="ghcp_dev_days_canada_banner" src="https://github.com/user-attachments/assets/e2beba2c-d6be-4520-b1c0-1f6635f0c3d5" />
 
 
 <h1 align="center">GitHub Copilot Dev Days Canada</h1>
